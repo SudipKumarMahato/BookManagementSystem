@@ -1,0 +1,12 @@
+101,Beloved, Leo Tolstoy,450,67,Novel,Bimal,Bhattarai,Male
+102,Lolita,Vladimir,500,70,Novel,Rupesh,Singh,Male
+103,DBMS,Henry,670,55,Database,Niraj,Bhattarai,Male
+104,Heart Me,Harry,305,120,Romance,Sudip,Mahato,Male
+105,Tomorrow,Aman,560,40,Romance,Rejina,Singh,Female
+106,Never Again,Unish,670,150,Romance,Harry,Kc,Male
+107,Clean code,Enrich,700,55,Software,Sudip,Paudel,Male
+108,pragmatic,Krishna,890,150,Software,John,KC,Male
+109,External,nick,450,60,Romance,Ram,Neupane,Male
+110,Normalization,Raghu,900,230,Database,Bimal,Bhattarai,Male
+111,Stolen,John,385,35,Romance,Sudip,Mahato,Male
+112,Relational,Jeffrey,570,80,Database,Garcia,Monila,Male
